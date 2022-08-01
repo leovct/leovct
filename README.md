@@ -15,8 +15,10 @@
 - I'm always learning and working on cool projects! 🌱
 
 ## Latest Articles
-- [Build a Kubernetes Operator in 10 minutes](https://betterprogramming.pub/build-a-kubernetes-operator-in-10-minutes-11eec1492d30)
-- (Draft) Write Tests for your Kubernetes Operator
+- [How To Write Tests for Your Kubernetes Operator](https://medium.com/better-programming/write-tests-for-your-kubernetes-operator-d3d6a9530840) (August 2022)
+- [Build a Kubernetes Operator in 10 minutes](https://betterprogramming.pub/build-a-kubernetes-operator-in-10-minutes-11eec1492d30) (July 2022)
+- (Draft) Advanced Kubernetes Operators Concepts
+- (Draft) Deep Dive into the Containers World
 - (Draft) Discover Modular Blockchains
 
 ## Tools
