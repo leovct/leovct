@@ -2,7 +2,8 @@
 <p align="center">
   <a href="https://medium.com/@leovct">Blog</a> •
   <a href="https://twitter.com/leoovct">Twitter</a> •
-  <a href="https://www.linkedin.com/in/vincentleo/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/vincentleo/">LinkedIn</a> •
+  <a href="https://linktr.ee/leovct">Linktree</a>
 </p>
 
 ## About me
