@@ -11,8 +11,8 @@
 - I'm very interested in blockchain and web3 development
 - I'm contributing to [Kwenta](https://kwenta.io/) as a bounty hunter (take a look at [my contributions](https://github.com/Kwenta/kwenta/pulls?q=is%3Apr+author%3Aleovct+))
 - I actively participate in blockchain hackathons:
-  - Chainlink Spring 2022 (Top 40 finalists) - [Everest Protocol](https://github.com/Everest-Option-Exchange-Team)
-  - (WIP) Polygon BUIDL IT: Summer 2022 - [Web3 lottery](https://github.com/leovct/web3-lottery) 
+  - Chainlink Spring 2022 (Top 40 finalists): [Everest Protocol](https://github.com/Everest-Option-Exchange-Team)
+  - (WIP) Polygon BUIDL IT Summer 2022: [Web3 Lottery](https://github.com/leovct/web3-lottery) 
 - I write [technical articles](https://medium.com/@leovct) on blockchain, infrastructure and devops
 - I'm always learning and working on cool projects! 🌱
 
