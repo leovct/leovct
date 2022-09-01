@@ -30,3 +30,8 @@
 - Web: Typescript/Js, Next.js, React, HTML, CSS
 - Game Development: Godot, GDScript, Gimp, Aseprite
 
+## Stats
+<p float="left" align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=leovct&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leovct&layout=compact&langs_count=8&theme=default"/>
+</p>
