@@ -7,7 +7,7 @@
 </p>
 
 ## About me
-- I'm currently working as an Infra/DevOps engineer
+- I'm currently working as an Infra/Software engineer
 - I'm very interested in blockchain and web3 development
 - I'm contributing to [Kwenta](https://kwenta.io/) as a bounty hunter (take a look at [my contributions](https://github.com/Kwenta/kwenta/pulls?q=is%3Apr+author%3Aleovct+))
 - I actively participate in blockchain hackathons:
