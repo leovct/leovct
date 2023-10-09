@@ -1,3 +1,3 @@
 ![sunset](sunset.jpeg)
 
-### Salut ! 👋
+Salut ! 👋
